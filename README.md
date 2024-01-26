@@ -1,4 +1,6 @@
-Jogo do Número Secreto, desenvolvido no Curso Lógica de programação: Mergulhe em programação com JavaScript - Explore funções e listas. Curso fornecido pela Alura.
+# Jogo do Número Secreto
+Desenvolvido no Curso Lógica de programação: Mergulhe em programação com JavaScript - Explore funções e listas. 
+Curso fornecido pela Alura.
 
 Carreguei o projeto com o HTML e o CSS para criar a estrutura e o estilo da página que utilizei durante o curso;
 
